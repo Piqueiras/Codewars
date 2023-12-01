@@ -1,0 +1,1 @@
+proc rowSumOddNumbers*(n: int): int = (n*n*(n+1)*(n+1) - (n-1)*(n-1)*n*n) div 4

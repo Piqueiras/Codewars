@@ -1,0 +1,1 @@
+proc hero*(bullets: int, dragons: int): bool = bullets >= 2 * dragons

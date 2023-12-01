@@ -1,0 +1,1 @@
+proc cockroachSpeed*(x: float): int = int((1000 / 36) * x)
